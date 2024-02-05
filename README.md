@@ -1,2 +1,3 @@
 # Shapes-Graphics
-This is Computer Graphic program written in c++ language with graphics library added to run GUI which shows shapes on specified pixels.
+
+Run this file in your ```TurboC``` *(Recommended)* or any other IDE setup with **Graphics** library.
