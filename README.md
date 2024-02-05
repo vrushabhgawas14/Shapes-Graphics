@@ -2,7 +2,7 @@
 
 Run this file in your ```TurboC``` *(Recommended)* or any other IDE setup with **Graphics** library.
 
-To run this in ```VS Code``` watch [this](https://youtu.be/FHhP7wcX5uQ?si=BOhKWrVuhlsStRTH) video
+To run this in ```VS Code``` watch [this](https://youtu.be/FHhP7wcX5uQ?si=BOhKWrVuhlsStRTH) video for Setup.
 
 
 
